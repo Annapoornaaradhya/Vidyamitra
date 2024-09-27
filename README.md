@@ -1,1 +1,2 @@
 # VIDYAMITRA
+The Vidyamitra website serves as an educational platform designed to empower learners across various levels. It offers structured courses in English, Science, and Math, categorized into three levels: beginner, intermediate, and advanced. Each level focuses on foundational skills, gradually advancing to more complex topics. The platform aims to make learning accessible and engaging for all students. For more details, you can visit the site [here](https://vidyamitra.vercel.app/#).
